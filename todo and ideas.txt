@@ -1,0 +1,11 @@
+# Prompt the user for a yes or no choice
+response = input("Use harsher language?: ")
+
+# Assign the yes and no values to variables
+yes = (response == "yes")
+no = (response == "no")
+
+# Print the values of the yes and no variables
+print("yes:", yes)
+print("no:", no)
+(different messages based on choice)
