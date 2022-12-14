@@ -11,5 +11,5 @@ pip install win10toast >NUL
 
 set /p question="Launch PVA now? (type y/n) "
 if /i "%question%"=="y" (
-  python PVA-Windows.py
+  python PVA-Windows.py >NUL
 )
