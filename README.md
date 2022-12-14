@@ -1,7 +1,7 @@
 # PVA
 PVA - Personal Verbal Abuser
 #### more updates for things like customizability and harshness level coming soon, this is just proof of concept
-# Your very own verbal abuser, to help you study for finals or some other test
+# Your very own verbal abuser, to help you study for finals or some other test because who doesnt like constantly being harassed by a robot?
 # Instructions
 #### Download the files in the folder corresponding to your OS (MacOS, Windows, Linux)
 #### Run the setup script (.zsh, .sh, or .bat depending on os)
