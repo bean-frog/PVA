@@ -9,3 +9,9 @@ no = (response == "no")
 print("yes:", yes)
 print("no:", no)
 (different messages based on choice)
+
+ADD THIS LATER:
+from playsound import playsound
+
+# Replace 'path/to/sound/file.mp3' with the actual path to the sound file
+playsound('path/to/sound/file.mp3')
