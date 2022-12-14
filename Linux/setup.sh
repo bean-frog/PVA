@@ -4,7 +4,7 @@ if ! [ -x "$(command -v pip)" ]; then
 fi
 echo "Installing required module: playsound"
 pip install playsound
-read -p "Run PVA now? [type yes/no] " response
+read -p "Launch PVA now? [type yes/no] " response
 
 if [ "$response" == "yes" ]; then
   python PVA-Linux.py
