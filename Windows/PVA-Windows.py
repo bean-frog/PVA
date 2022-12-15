@@ -12,10 +12,16 @@ if option == 'high':
     time.sleep(600)
     
 elif option == 'mid':
-    
+    while True:
+    toaster.show_toast("Hey are you studying? no? get your ass back on track rn like come on do you want to be fucking homeless and addicted to meth and eventually be having conversations with a water fountain? i didnt think so.","OI WHAT ARE YOU DOING RN",
+                       duration=10)
+    time.sleep(600)
     
 elif option == 'low':
-  
+   while True:
+    toaster.show_toast("Hey bud lets make sure we're studying because you","OI WHAT ARE YOU DOING RN",
+                       duration=10)
+    time.sleep(600)
 
 else:
   print("Invalid option, try again")
